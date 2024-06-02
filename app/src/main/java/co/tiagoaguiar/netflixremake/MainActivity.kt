@@ -13,8 +13,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val movies = mutableListOf<Movie>()
-        for(i in 0 until 60) {
-            val movie = Movie("https://exemplo.com/$i.jpg")
+        for(i in 0 until 5) {
+            val movie = Movie(R.drawable.movie)
             movies.add(movie)
         }
 
