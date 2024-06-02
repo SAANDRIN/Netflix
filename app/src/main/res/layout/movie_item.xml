@@ -8,7 +8,7 @@
 
     <ImageView
         android:id="@+id/img_cover"
-        android:src="@drawable/movie"
+        android:src="@drawable/placeholder_bg"
         android:layout_width="0dp"
         android:scaleType="centerCrop"
         app:layout_constraintStart_toStartOf="parent"
