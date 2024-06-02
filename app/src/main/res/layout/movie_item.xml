@@ -5,7 +5,8 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <TextView
-        android:background="#f00"
+        android:id="@+id/txt_test"
+        android:background="@color/white"
         android:layout_marginTop="8dp"
         android:layout_marginStart="8dp"
         app:layout_constraintTop_toTopOf="parent"
