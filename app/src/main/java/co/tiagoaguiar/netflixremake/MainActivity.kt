@@ -15,6 +15,8 @@ import co.tiagoaguiar.netflixremake.util.CategoryTask
 class MainActivity : AppCompatActivity(), CategoryTask.Callback {
 
     private lateinit var progress: ProgressBar
+    private lateinit var adapter: CategoryAdapter
+    private val categories = mutableListOf<Category>()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -22,9 +24,8 @@ class MainActivity : AppCompatActivity(), CategoryTask.Callback {
 
         progress = findViewById(R.id.progress_main)
 
-        val categories = mutableListOf<Category>()
 
-        val adapter = CategoryAdapter(categories)
+        adapter = CategoryAdapter(categories)
         val rv: RecyclerView = findViewById(R.id.rv_main)
         rv.layoutManager = LinearLayoutManager(this)
         rv.adapter = adapter
@@ -39,7 +40,10 @@ class MainActivity : AppCompatActivity(), CategoryTask.Callback {
 
     override fun onResult(categories: List<Category>) {
 
-        Log.i("Teste MainActivity", categories.toString())
+        this.categories.clear()
+        this.categories.addAll(categories)
+        adapter.notifyDataSetChanged()
+
         progress.visibility = View.GONE
 
     }
