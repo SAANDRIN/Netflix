@@ -100,5 +100,4 @@ class CategoryTask(private val callback: Callback) {
     }
 
 
-
 }

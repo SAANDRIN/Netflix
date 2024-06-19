@@ -105,6 +105,15 @@
             app:layout_constraintTop_toBottomOf="@id/txt_fixed"
             tools:listitem="@layout/movie_item_similar" />
 
+        <ProgressBar
+            android:id="@+id/movie_progress"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintBottom_toTopOf="@id/movie_rv_similar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 </androidx.core.widget.NestedScrollView>
