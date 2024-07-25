@@ -8,7 +8,7 @@ Este é um aplicativo Android desenvolvido para simular a interface gráfica do 
 
 ## Funcionalidades
 
-**Carregar as imagens dos players dinamicamente via servidor RESTful**
+_Carregar as imagens dos players dinamicamente via servidor RESTful_
 
 
 ## Capturas de Tela
@@ -34,7 +34,7 @@ This is an Android application designed to simulate the graphical interface of t
 
 ## Functionalities
 
-**Load player images dynamically via RESTful server**
+_Load player images dynamically via RESTful server_
 
 
 ## Screenshots
