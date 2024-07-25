@@ -13,7 +13,14 @@ _Carregar as imagens dos players dinamicamente via servidor RESTful_
 
 ## Capturas de Tela
 
+_Tela Principal_
+![Main](https://github.com/SAANDRIN/ImagensConjunto/blob/main/NetflixRemake%20-%20Tela%20Principal.png)
 
+_Filme 1 (Exemplo 1) - Tela de Detalhes_
+![Filme 1](https://github.com/SAANDRIN/ImagensConjunto/blob/main/Filme%201.png)
+
+_Filme 2 (Exemplo 2) - Tela de Detalhes_
+![Filme 2](https://github.com/SAANDRIN/ImagensConjunto/blob/main/Filme%202.png)
 
 ## Requisitos
 
@@ -38,6 +45,15 @@ _Load player images dynamically via RESTful server_
 
 
 ## Screenshots
+
+_Main Screen_
+![Mainl](https://github.com/SAANDRIN/ImagensConjunto/blob/main/NetflixRemake%20-%20Tela%20Principal.png)
+
+_Movie 1 (Example 1) - Detail Screen_
+![Movie l](https://github.com/SAANDRIN/ImagensConjunto/blob/main/Filme%201.png)
+
+_Movie 2 (Example 2)- Detail Screen_
+![Movie 2](https://github.com/SAANDRIN/ImagensConjunto/blob/main/Filme%202.png)
 
 
 
