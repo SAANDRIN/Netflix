@@ -46,7 +46,7 @@ This is an Android application designed to simulate the graphical interface of t
 
 ## Functionalities
 
-_Load player images dynamically via RESTful server_
+_Load player images dynamically by RESTful server_
 
 
 ## Screenshots
