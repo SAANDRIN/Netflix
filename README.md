@@ -15,17 +15,21 @@ _Carregar as imagens dos players dinamicamente via servidor RESTful_
 
 _Tela Principal_
 
-![Main](https://github.com/SAANDRIN/ImagensConjunto/blob/main/NetflixRemake%20-%20Tela%20Principal.png)
-
+<div style="text-align: center;">
+  <img src="https://github.com/SAANDRIN/ImagensConjunto/blob/main/NetflixRemake%20-%20Tela%20Principal.png" alt="Main">
+</div>
 
 _Filme 1 (Exemplo 1) - Tela de Detalhes_
 
-![Filme 1](https://github.com/SAANDRIN/ImagensConjunto/blob/main/Filme%201.png)
-
+<div style="text-align: center;">
+  <img src="https://github.com/SAANDRIN/ImagensConjunto/blob/main/Filme%201.png" alt="Filme 1">
+</div>
 
 _Filme 2 (Exemplo 2) - Tela de Detalhes_
 
-![Filme 2](https://github.com/SAANDRIN/ImagensConjunto/blob/main/Filme%202.png)
+<div style="text-align: center;">
+  <img src="https://github.com/SAANDRIN/ImagensConjunto/blob/main/Filme%202.png" alt="Filme 2">
+</div>
 
 ## Requisitos
 
@@ -41,7 +45,6 @@ _Filme 2 (Exemplo 2) - Tela de Detalhes_
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # (EN) Netflix Remake application
 
-
 This is an Android application designed to simulate the graphical interface of the official Netflix application.
 
 ## Functionalities
@@ -53,19 +56,21 @@ _Load player images dynamically by RESTful server_
 
 _Main Screen_
 
-![Mainl](https://github.com/SAANDRIN/ImagensConjunto/blob/main/NetflixRemake%20-%20Tela%20Principal.png)
-
+<div style="text-align: center;">
+  <img src="https://github.com/SAANDRIN/ImagensConjunto/blob/main/NetflixRemake%20-%20Tela%20Principal.png" alt="Main">
+</div>
 
 _Movie 1 (Example 1) - Detail Screen_
 
-![Movie l](https://github.com/SAANDRIN/ImagensConjunto/blob/main/Filme%201.png)
-
+<div style="text-align: center;">
+  <img src="https://github.com/SAANDRIN/ImagensConjunto/blob/main/Filme%201.png" alt="Movie 1">
+</div>
 
 _Movie 2 (Example 2)- Detail Screen_
 
-![Movie 2](https://github.com/SAANDRIN/ImagensConjunto/blob/main/Filme%202.png)
-
-
+<div style="text-align: center;">
+  <img src="https://github.com/SAANDRIN/ImagensConjunto/blob/main/Filme%202.png" alt="Movie 2">
+</div>
 
 ## Requirements
 
